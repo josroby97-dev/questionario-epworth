@@ -333,7 +333,7 @@
     <div class="container">
         <div class="header">
             <h1>📋 Scala della Sonnolenza di Epworth</h1>
-            <p>Questionario per la valutazione della sonnolenza diurna</p>
+            <p>Questionario per la valutazione della sonnolenza</p>
         </div>
 
         <div class="form-container">
